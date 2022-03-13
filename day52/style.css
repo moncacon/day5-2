@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.header{
+    background-color: rgb(28, 194, 42);
+    width: 500px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 5px;
+}
+.middle{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin-top: 20px;
+}
+/*.middle .item{
+    margin-left: 15px;
+}*/
+.middle-1{
+    background-color:rgb(28, 194, 42);
+    width: 150px;
+    height: 100px;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-right: 25px;
+}
+.middle-2{
+    background-color:rgb(28, 194, 42);
+    width: 150px;
+    height: 100px;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.middle-3{
+    background-color:rgb(28, 194, 42);
+    width: 150px;
+    height: 100px;
+    color: white;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 25px;
+}
+.bot{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.bot-1{
+    background-color:rgb(28, 194, 42) ;
+    color: white;
+    width: 500px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
